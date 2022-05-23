@@ -29,7 +29,7 @@ $query->execute();
 $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
-$msg="Student successfully registered";
+$msg="Student has successfully registered";
 }
 else 
 {
