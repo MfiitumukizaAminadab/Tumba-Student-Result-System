@@ -61,7 +61,7 @@ $msg="Student info updated successfully";
                 <div class="content-container">
 
                     <!-- ========== LEFT SIDEBAR ========== -->
-                   <?php include('includes/leftbar.php');?>  
+                   <?php include('leftbar.php');?>  
                     <!-- /.left-sidebar -->
 
                     <div class="main-page">
